@@ -46,18 +46,7 @@ processing with OpenCV (YuNet and SFace), tested, with CI.
 Building LLM-powered systems, and exploring real-time voice agents and local model
 inference.
 
-### GitHub stats
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=navruzbek1&show_icons=true&hide_border=true&theme=dark" />
-    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=navruzbek1&show_icons=true&hide_border=true" height="170" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=navruzbek1&layout=compact&hide_border=true&hide=jupyter%20notebook&theme=dark" />
-    <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navruzbek1&layout=compact&hide_border=true&hide=jupyter%20notebook" height="170" />
-  </picture>
-</p>
+### Activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/navruzbek1/navruzbek1/output/github-snake-dark.svg" />
