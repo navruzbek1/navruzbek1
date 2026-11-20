@@ -31,15 +31,20 @@ speech and vision pipelines. Based in Tashkent, Uzbekistan.
 | Area | Tools |
 |---|---|
 | LLM and AI systems | LLM APIs (Gemini, OpenRouter), RAG, structured outputs, speech-to-text |
-| Computer vision | OpenCV, YuNet, SFace |
+| Computer vision | OpenCV, YOLOv8-pose, YuNet, SFace |
 | Data science | NumPy, pandas, scikit-learn, Jupyter |
 | Engineering | Python, pytest, ruff, Git, GitHub Actions |
 
-### Featured project
+### Featured projects
 
 **[SafeCamera](https://github.com/navruzbek1/safecamera)** locks a Windows PC when the owner
 walks away, unlocks it by face, and blurs the screen when someone else looks at it. Local
 processing with OpenCV (YuNet and SFace), tested, with CI.
+
+**[Desk Presence Monitor](https://github.com/navruzbek1/desk-presence-monitor)** watches office
+desks through RTSP cameras and tells who is at their desk and who is away, in real time, with a
+daily arrival, departure and total-time report. YOLOv8-pose, polygon desk zones and a state
+machine with a 30-second confirmation window. Case study plus the core logic, tested, with CI.
 
 ### Currently
 
@@ -72,9 +77,15 @@ asosidagi tizimlar, nutq va ko'rish pipeline'lari bilan shug'ullanaman.
 - **Taxmin emas, o'lchov.** Modelni tanlashdan oldin kechikish, token sarfi, narx va aniqlik
   bo'yicha solishtiraman.
 
-**Tanlangan loyiha:** [SafeCamera](https://github.com/navruzbek1/safecamera). Egasi
-uzoqlashsa Windows kompyuterini qulflaydi, yuz bilan ochadi va begona odam ekranga qarasa
-ekranni xiralashtiradi. OpenCV (YuNet va SFace) bilan lokal ishlaydi, testlar va CI bor.
+**Tanlangan loyihalar**
+
+- [SafeCamera](https://github.com/navruzbek1/safecamera). Egasi uzoqlashsa Windows kompyuterini
+  qulflaydi, yuz bilan ochadi va begona odam ekranga qarasa ekranni xiralashtiradi. OpenCV
+  (YuNet va SFace) bilan lokal ishlaydi, testlar va CI bor.
+- [Desk Presence Monitor](https://github.com/navruzbek1/desk-presence-monitor). RTSP kameralar
+  orqali ish stollarini real vaqtda kuzatadi: kim stolda, kim joyida yo'q, va kunlik kelish,
+  ketish va jami vaqt hisoboti. YOLOv8-pose, ko'pburchak zonalar va 30 soniyalik tasdiqlash
+  holat mashinasi. Loyiha tavsifi va yadro mantiq, testlar va CI bor.
 
 **Hozir:** LLM asosidagi tizimlar quryapman, real-time ovozli agentlar va lokal model
 inferensini o'rganyapman.
