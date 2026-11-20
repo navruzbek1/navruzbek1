@@ -1,12 +1,10 @@
-# Navruzbek Abduganiyev
-
-**System architect | AI and LLM engineer** based in Tashkent, Uzbekistan.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:8957e5&height=180&section=header&text=Navruzbek%20Abduganiyev&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=System%20architect%20%7C%20AI%20and%20LLM%20engineer&descSize=18&descAlignY=60" alt="Navruzbek Abduganiyev - System architect, AI and LLM engineer" />
+</div>
 
 I design and build AI systems end to end: from the architecture and the data flow to the
 model calls, evaluation and deployment. These days most of my work is LLM-based systems,
-speech and vision pipelines.
-
----
+speech and vision pipelines. Based in Tashkent, Uzbekistan.
 
 ### What I work on
 
@@ -47,3 +45,49 @@ processing with OpenCV (YuNet and SFace), tested, with CI.
 
 Building LLM-powered systems, and exploring real-time voice agents and local model
 inference.
+
+### GitHub stats
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=navruzbek1&show_icons=true&hide_border=true&theme=dark" />
+    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=navruzbek1&show_icons=true&hide_border=true" height="170" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=navruzbek1&layout=compact&hide_border=true&hide=jupyter%20notebook&theme=dark" />
+    <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navruzbek1&layout=compact&hide_border=true&hide=jupyter%20notebook" height="170" />
+  </picture>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/navruzbek1/navruzbek1/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/navruzbek1/navruzbek1/output/github-snake.svg" />
+  <img alt="Contribution graph snake animation" src="https://raw.githubusercontent.com/navruzbek1/navruzbek1/output/github-snake.svg" />
+</picture>
+
+<details>
+<summary><b>O'zbekcha</b></summary>
+
+**Tizim arxitektori | AI va LLM muhandisi.** Toshkent, O'zbekiston.
+
+Men AI tizimlarini boshidan oxirigacha loyihalayman va quraman: arxitektura va ma'lumotlar
+oqimidan tortib model chaqiruvlari, baholash va ishga tushirishgacha. Hozir asosan LLM
+asosidagi tizimlar, nutq va ko'rish pipeline'lari bilan shug'ullanaman.
+
+**Nima bilan shug'ullanaman**
+
+- **LLM tizimlari.** LLM API'lar atrofida arxitektura: tuzilmali klassifikatsiya, RAG,
+  prompt va sxema dizayni, har bir bosqich uchun mos modelni tanlash.
+- **Nutq va ko'rish pipeline'lari.** Nutqni matnga aylantirish (STT), yuzni aniqlash va
+  tanish, oddiy kompyuterda real-time ishlov.
+- **Taxmin emas, o'lchov.** Modelni tanlashdan oldin kechikish, token sarfi, narx va aniqlik
+  bo'yicha solishtiraman.
+
+**Tanlangan loyiha:** [SafeCamera](https://github.com/navruzbek1/safecamera). Egasi
+uzoqlashsa Windows kompyuterini qulflaydi, yuz bilan ochadi va begona odam ekranga qarasa
+ekranni xiralashtiradi. OpenCV (YuNet va SFace) bilan lokal ishlaydi, testlar va CI bor.
+
+**Hozir:** LLM asosidagi tizimlar quryapman, real-time ovozli agentlar va lokal model
+inferensini o'rganyapman.
+
+</details>
